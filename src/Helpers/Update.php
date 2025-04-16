@@ -71,6 +71,7 @@ final class Update
             'pinned_message',
             'invoice',
             'successful_payment',
+            'refunded_payment',
             'user_shared',
             'chat_shared',
             'connected_website',
